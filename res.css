@@ -13,6 +13,12 @@
   font-style: normal;
 
 }
+@font-face {
+  font-family: "Times New Roman";
+  src: url("file:///home/israel/Área de trabalho/revista/fontes/times-new-roman-italic.ttf") format('truetype');
+  font-weight: italic;
+  font-style: italic;
+
 h1.titulo{
 font-family: "Times New Roman", Serif, Times;
 font-size: 16pt;
@@ -154,6 +160,15 @@ margin-left: 5%;
 margin-right: 2%;
 line-height: 0.8cm;
 text-align: justify;
+}
+table.teste{
+width:97%;
+}
+table.teste td{
+text-align: justify;
+font-family: "Times New Roman";
+border-top: 1px solid black;
+font-size: 10pt;
 }
 
 </style>
