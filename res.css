@@ -170,6 +170,20 @@ font-family: "Times New Roman";
 border-top: 1px solid black;
 font-size: 10pt;
 }
+table.modificada{
+  border-collapse: collapse;
+margin-left: 3%;
+margin-right: 3%;
+width: 95%;
+}
+
+table.modificada th, table.modificada td {
+  padding: 8px;
+ text-align: left;
+font-size: 14pt;
+font-family: "Times New Roman", Serif, Times;
+}
+
 
 </style>
 
