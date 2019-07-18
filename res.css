@@ -19,48 +19,50 @@
   font-weight: italic;
   font-style: italic;
 
+}
 h1.titulo{
 font-family: "Times New Roman", Serif, Times;
 font-size: 16pt;
-margin-left: 3%;
-margin-right: 3%;
+margin-left: 10%;
+margin-right: 10%;
 }
 h2.autores{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 2%;
 margin-right: 2%;
 }
 h2.resumo{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 10%;
 margin-right: 10%;
 }
 h2.abstract{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 10%;
 margin-right: 10%;
 font-style: italic;
+
 }
 h2.topico{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 2%;
 margin-right: 2%;
 }
 p.resumo{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 10%;
 margin-right: 10%;
 text-align: justify;
 line-height: 0.8cm;
 }
 p.abstract{
-font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-family: "Times New Roman";
+font-size: 12pt;
 margin-left: 10%;
 margin-right: 10%;
 font-style: italic;
@@ -69,7 +71,7 @@ line-height: 0.8cm;
 }
 p.normal{
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 2%;
 margin-right: 2%;
 text-indent: 25px;
@@ -86,9 +88,9 @@ text-align: justify;
 }
 table.quadro td, table.quadro th {
   text-align: left;
-font-size: 14pt;
+font-size: 12pt;
 font-family: "Times New Roman", Serif, Times;
-}
+ }
 
 table.quadro {
   border-collapse: collapse;
@@ -103,7 +105,7 @@ table.quadro th, table.quadro td {
 }
 p.ref{
 font-family: "Times New Roman", Serif, Times;
-font-size: 12pt;
+font-size: 10pt;
 margin-left: 3%;
 margin-right: 2%;
 line-height: 1cm;
@@ -120,7 +122,7 @@ table.tabela th, table.tabela td {
   padding: 8px;
   border-bottom: 2px solid black;
  text-align: left;
-font-size: 14pt;
+font-size: 12pt;
 font-family: "Times New Roman", Serif, Times;
 }
 div.referencia{
@@ -133,7 +135,7 @@ text-align: justify;
 }
 a.rodape{
 font-family: "Times New Roman", Serif, Times;
-font-size: 12pt;
+  font-size: 12pt;
 text-align: justify;
 }
 footer{
@@ -162,7 +164,7 @@ line-height: 0.8cm;
 text-align: justify;
 }
 table.teste{
-width:97%;
+width:80%;
 }
 table.teste td{
 text-align: justify;
@@ -183,7 +185,8 @@ table.modificada th, table.modificada td {
 font-size: 14pt;
 font-family: "Times New Roman", Serif, Times;
 }
-
-
 </style>
+
+
+
 
