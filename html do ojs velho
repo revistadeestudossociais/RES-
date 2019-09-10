@@ -158,7 +158,7 @@ text-align: justify;
 ol.normal{
 list-style-type: upper-roman;
 font-family: "Times New Roman", Serif, Times;
-font-size: 14pt;
+font-size: 12pt;
 margin-left: 5%;
 margin-right: 2%;
 line-height: 0.8cm;
@@ -217,4 +217,18 @@ margin-left: 3%;
 margin-right: 10%;
 font-weight: bold;
 }
+table.modificada2{
+  border-collapse: collapse;
+margin-left: 3%;
+margin-right: 3%;
+width: 95%;
+}
+
+table.modificada2 th, table.modificada2 td {
+  padding: 8px;
+ text-align: center;
+font-size: 12pt;
+font-family: "Times New Roman", Serif, Times;
+}
+
 </style>
