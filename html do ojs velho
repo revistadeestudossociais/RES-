@@ -8,27 +8,29 @@
 </script>
 </head>
 <style>
+
 @font-face {
   font-family: "Times New Roman";
-  src: url("file:///home/israel/Área de trabalho/revista/fontes/times-new-roman-14.ttf") format('truetype');
+  src: url("file:////home/israel/Área de Trabalho/revista/fontes/times-new-roman-14.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 
 }
 @font-face {
   font-family: "Times New Roman";
-  src: url("file:///home/israel/Área de trabalho/revista/fontes/times-new-roman-bold.otf") format('truetype');
+  src: url("file:////home/israel/Área de Trabalho/revista/fontes/times-new-roman-bold.otf") format('truetype');
   font-weight: bold;
   font-style: normal;
 
 }
 @font-face {
   font-family: "Times New Roman";
-  src: url("file:///home/israel/Área de trabalho/revista/fontes/times-new-roman-italic.ttf") format('truetype');
+  src: url("file:////home/israel/Área de Trabalho/revista/fontes/times-new-roman-italic.ttf") format('truetype');
   font-weight: italic;
   font-style: italic;
 
 }
+
 h1.titulo{
 font-family: "Times New Roman", Serif, Times;
 font-size: 16pt;
