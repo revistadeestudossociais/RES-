@@ -89,6 +89,16 @@ text-indent: 25px;
 line-height: 1cm;
 text-align: justify;
 }
+
+p.tabela{
+font-family: "Times New Roman", Serif, Times;
+font-size: 12pt;
+margin-left: 2%;
+margin-right: 2%;
+line-height: 1cm;
+text-align: justify;
+}
+
 p.citacao{
 font-family: "Times New Roman", Serif, Times;
 font-size: 12pt;
