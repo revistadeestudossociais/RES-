@@ -224,7 +224,7 @@ margin-left: 10%;
 margin-right: 10%;
 font-weight: bold;
 }
-p.subtitulo{
+p.section{
 font-family: "Times New Roman", Serif, Times;
 font-size: 12pt;
 margin-left: 3%;
