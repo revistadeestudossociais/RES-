@@ -212,7 +212,7 @@ width: 95%;
 }
 
 table.modificada th, table.modificada td {
-  padding: 8px;
+  padding: 4px;
  text-align: left;
 font-size: 12pt;
 font-family: "Times New Roman", Serif, Times;
@@ -239,7 +239,7 @@ width: 95%;
 }
 
 table.modificada2 th, table.modificada2 td {
-  padding: 8px;
+  padding: 4px;
  text-align: center;
 font-size: 12pt;
 font-family: "Times New Roman", Serif, Times;
